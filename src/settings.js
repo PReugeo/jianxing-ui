@@ -33,5 +33,5 @@ module.exports = {
    */
   errorLog: 'production',
 
-  themeStyle: 'dark'
+  themeStyle: 'light'
 }
